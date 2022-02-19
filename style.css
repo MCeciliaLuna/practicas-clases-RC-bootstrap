@@ -1,0 +1,17 @@
+.btn-danger{
+    background-color: greenyellow;
+    border-color: black;
+    color: black;
+}
+
+.size-img{
+    height: 100px;
+}
+
+.carousel-item{
+    width: 50%;
+}
+
+.text-modal{
+    margin: 0 30px 30px 30px;
+}
